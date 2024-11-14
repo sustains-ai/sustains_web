@@ -1,2 +1,2 @@
 # sustains_web
-Creating the website for my company
+Creating a website for first time
