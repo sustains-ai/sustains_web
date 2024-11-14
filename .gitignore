@@ -1,0 +1,9 @@
+.vercel
+node_modules/
+dist/
+.idea/
+__pycache__/
+sustainsvenv/
+.DS_Store
+*.log
+health_data.db
